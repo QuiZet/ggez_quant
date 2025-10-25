@@ -230,7 +230,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 MIT License
 
 ## Credits
-One and only [Maxime Labonne](https://github.com/mlabonne)
+The one and only [Maxime Labonne](https://github.com/mlabonne)
 
 This library is built on top of:
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) by Georgi Gerganov
